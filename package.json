@@ -1,0 +1,23 @@
+{
+  "name": "vercel-dasa-public",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/arielal79/vercel-dasa-directory.git",
+  "author": "arielal79 <alariel739@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next"
+  },
+  "dependencies": {
+    "next": "^14.2.14",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@types/node": "22.5.5",
+    "@types/react": "18.3.5",
+    "typescript": "5.6.2"
+  }
+}
